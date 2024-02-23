@@ -59,6 +59,7 @@
 - Java Spring Boot + MySQL + MyBatis Plus
 - Java命令行应用开发
 - FreeMarker模板引擎
+- Picocli命令行框架
 - Vert.x响应式编程
 - Caffeine + Redis 多级缓存
 - 分布式任务调度系统
